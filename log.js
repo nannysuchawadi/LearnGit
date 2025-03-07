@@ -1,3 +1,3 @@
 console.log("nannyyyy")
 console.log("Tonmai")
-console.log("Noynha")
+console.log("น้อยหน่า")
