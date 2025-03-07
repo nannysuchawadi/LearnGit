@@ -1,1 +1,1 @@
-console.log("nannyyyy")
+console.log("น้อยหน่ากินกระดาษ")
